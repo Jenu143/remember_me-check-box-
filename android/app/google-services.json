@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352713541703",
+    "project_id": "remember-me-50270",
+    "storage_bucket": "remember-me-50270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352713541703:android:3b79c04c4b3dfc5aeb0962",
+        "android_client_info": {
+          "package_name": "com.example.remember_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352713541703-acmmb6tlrpe6vffg5uj4jsq796n7aums.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDlfQZkS-NyvKOgJZigXAHWIP2HsH0MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352713541703-acmmb6tlrpe6vffg5uj4jsq796n7aums.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
